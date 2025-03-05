@@ -1,4 +1,4 @@
-<img src="figs/LaRA.png" alt="LaRA" width="80" align="left"><div align="center"><h1>&nbsp; LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs</h1></div>
+<img src="figs/LaRA.png" alt="LaRA" width="100" align="left"><div align="center"><h1>&nbsp; LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs</h1></div>
 
 <p align="center">
 <font size=5>📑</font>
