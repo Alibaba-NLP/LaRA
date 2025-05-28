@@ -58,7 +58,7 @@ We provide evaluation code for both open-source models and proprietary models in
 * `evaluation/eval_full.py`
 * `evaluation/eval_rag.py`
 * `evaluation/eval_full_open.py`
-* `evaluation/eval_full_open.py`
+* `evaluation/eval_full_rag.py`
 
 For proprietary LLMs, please fill in your own API key to call the model. We provide functions for Qwen and GPT models.
 ```python
