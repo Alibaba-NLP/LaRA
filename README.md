@@ -36,7 +36,7 @@ pip install -r requirements.txt
 The 32k and 128k contexts and queries are stored in the `dataset` folder. The query files follow the naming convention `{context length}_{context type}_{task type}.jsonl`. The folder structure is shown below:
 ```
 LaRA
-├── dataset
+├── datasets
 │   ├── 32k
 │   ├── 128k
 │   └── query
